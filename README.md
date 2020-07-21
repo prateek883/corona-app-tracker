@@ -1,6 +1,5 @@
-This project is based on Reactjs,MaterialUI and Hooks,.
 
-
+COVID TRACKER APP
 
 ### `npm start`
 

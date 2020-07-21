@@ -1,5 +1,5 @@
 
-COVID TRACKER APP
+ ## COVID TRACKER APP ##
 
 ### `npm start`
 

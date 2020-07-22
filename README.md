@@ -1,5 +1,8 @@
 
  ## COVID TRACKER APP ##
+ 
+ This project is based on the most modern Javascript frameworks.
+ The project is going to fetch the live data from the API using Async/Await syntax and also cretaed the cards displaying the statistics as well as Charts. 
 
 ### `npm start`
 
